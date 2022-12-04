@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "noLWN6Aq0/SNfE0iW+Jvvp17HIbQKNwCWDitvr/FQdx9bRW2WPxEx4YUyd4qGjx6kynzJYgDiePZ2x6Bt2sVUA==",
+  "success": true,
+  "projectFilePath": "D:\\PBO-awal-main\\PBO-Proyek-Akhir-main\\Toko Alat Musik\\Toko Alat Musik\\Toko Alat Musik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naufal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Naufal\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Naufal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
