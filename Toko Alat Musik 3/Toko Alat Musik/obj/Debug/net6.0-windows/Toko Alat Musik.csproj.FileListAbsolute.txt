@@ -1,0 +1,116 @@
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.exe
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.deps.json
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.runtimeconfig.json
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.dll
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.pdb
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.AssemblyReference.cache
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Form1.resources
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.GenerateResource.cache
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.AssemblyInfoInputs.cache
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.AssemblyInfo.cs
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.dll
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\refint\Toko Alat Musik.dll
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.pdb
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.genruntimeconfig.cache
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\ref\Toko Alat Musik.dll
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Gudang.resources
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Login.resources
+D:\Visual Studio\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Properties.Resources.resources
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.AssemblyReference.cache
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\refint\Toko Alat Musik.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.pdb
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.exe
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.deps.json
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.runtimeconfig.json
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.pdb
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Npgsql.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Gudang.resources
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Login.resources
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.penjualan.resources
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Properties.Resources.resources
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.GenerateResource.cache
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.AssemblyInfoInputs.cache
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.AssemblyInfo.cs
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.CoreCompileInputs.cache
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.CopyComplete
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.genruntimeconfig.cache
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\ref\Toko Alat Musik.dll
+D:\03 PBO\PBO-Proyek-Akhir-main\PBO-Proyek-Akhir-main\PBO-awal-main\PBO-Proyek-Akhir-main\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.splash.resources
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.exe
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.deps.json
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.runtimeconfig.json
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Toko Alat Musik.pdb
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\Npgsql.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.AssemblyReference.cache
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Login.resources
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Properties.Resources.resources
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.splash.resources
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.GenerateResource.cache
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.AssemblyInfoInputs.cache
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.AssemblyInfo.cs
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.CoreCompileInputs.cache
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.CopyComplete
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\refint\Toko Alat Musik.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.pdb
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.genruntimeconfig.cache
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\ref\Toko Alat Musik.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Instrument.resources
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Selling.resources
+D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\CSharp.Winform.UI.dll
