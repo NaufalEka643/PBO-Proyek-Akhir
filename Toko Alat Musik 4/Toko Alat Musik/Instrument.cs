@@ -182,34 +182,6 @@ namespace Toko_Alat_Musik
 
         }
 
-        private void button6_Click(object sender, EventArgs e)
-        {
-            if (NewPassTb.Text == "")
-            {
-                MessageBox.Show("Informasi Hilang");
-            }
-            else
-            {
-                try
-                {
-                    Con.Open();
-                    string query = "update AdminTbl set AdmPass='" + NewPassTb.Text + "'where Id=" + 1 + ";";
-                    SqlCommand cmd = new SqlCommand(query, Con);
-                    cmd.ExecuteNonQuery();
-                    MessageBox.Show("Password diubah");
-                    Con.Close();
-                    Login log = new Login();
-                    log.Show();
-                    this.Hide();
-
-                }
-                catch (Exception Ex)
-                {
-                    MessageBox.Show(Ex.Message);
-                }
-            }
-        }
-
         private void button5_Click(object sender, EventArgs e)
         {
             Login log = new Login();

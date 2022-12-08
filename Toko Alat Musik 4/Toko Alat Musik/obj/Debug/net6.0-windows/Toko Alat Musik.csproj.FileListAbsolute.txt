@@ -114,3 +114,7 @@ D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\DocumentForma
 D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Instrument.resources
 D:\03 PBO\Toko Alat Musik\Toko Alat Musik\obj\Debug\net6.0-windows\Toko_Alat_Musik.Selling.resources
 D:\03 PBO\Toko Alat Musik\Toko Alat Musik\bin\Debug\net6.0-windows\CSharp.Winform.UI.dll
+C:\Users\user\Desktop\Kuliah Ivan\PBO AKHIR\PBO-Proyek-Akhir-main\Toko Alat Musik 4\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kuliah Ivan\PBO AKHIR\PBO-Proyek-Akhir-main\Toko Alat Musik 4\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.dll
+C:\Users\user\Desktop\Kuliah Ivan\PBO AKHIR\PBO-Proyek-Akhir-main\Toko Alat Musik 4\Toko Alat Musik\obj\Debug\net6.0-windows\refint\Toko Alat Musik.dll
+C:\Users\user\Desktop\Kuliah Ivan\PBO AKHIR\PBO-Proyek-Akhir-main\Toko Alat Musik 4\Toko Alat Musik\obj\Debug\net6.0-windows\Toko Alat Musik.pdb
