@@ -188,5 +188,10 @@ namespace Toko_Alat_Musik
             log.Show();
             this.Hide();
         }
+
+        private void InstQtyTb_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

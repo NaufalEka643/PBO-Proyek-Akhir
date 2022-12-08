@@ -144,6 +144,12 @@ namespace Toko_Alat_Musik
             insertBill();
         }
         int instid, instqty, instprice, tottal, pos = 60;
+
+        private void InstNameTb_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         string instname;
         private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
         {

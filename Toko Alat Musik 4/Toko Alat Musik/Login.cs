@@ -64,5 +64,10 @@ namespace Toko_Alat_Musik
         {
             Application.Exit();
         }
+
+        private void UidTb_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

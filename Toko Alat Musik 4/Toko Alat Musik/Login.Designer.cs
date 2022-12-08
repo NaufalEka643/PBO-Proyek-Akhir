@@ -87,6 +87,7 @@
             this.UidTb.Name = "UidTb";
             this.UidTb.Size = new System.Drawing.Size(215, 37);
             this.UidTb.TabIndex = 1;
+            this.UidTb.TextChanged += new System.EventHandler(this.UidTb_TextChanged);
             // 
             // PassTb
             // 
